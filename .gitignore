@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+*.pyo
+
+# Environnements virtuels
+.env
+.venv
+env/
+venv/
+ENV/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Fichiers temporaires
+*.swp
+*.swo
+*~
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
