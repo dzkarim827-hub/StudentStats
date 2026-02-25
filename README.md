@@ -9,7 +9,7 @@ Module Python pour gérer des statistiques de notes (moyenne, min, max).
 | Chef de Projet | Karim Kamli |
 | Architecte | Derar Laibi |
 | Développeur | Kaci |
-| Responsable Qualité | Mouad Azzouz |
+| Responsable Qualité | neil guerinik |
 
 ## Fonctionnalités
 - `calcul_moyenne(liste_notes)` → Retourne la moyenne
